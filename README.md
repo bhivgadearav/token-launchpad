@@ -40,14 +40,6 @@ This project uses the following dependencies:
 - **tailwind-merge**: ^2.5.3
 - **tailwindcss-animate**: ^1.0.7
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [Solana](https://solana.com/)
