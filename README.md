@@ -8,6 +8,7 @@ Welcome to the **Solana Token Launchpad**! This project allows users to connect 
 - **Create Tokens**: Launch new tokens on the Solana network with just a few clicks.
 - **Attach Metadata**: Add important metadata to your tokens, including name, symbol, and URI.
 - **Token Details File Download**: Download the token details as a file for easy access and sharing.
+- **Airdrop Your Token**: Airdrop yourself some tokens to play around with.
 
 ## Dependencies
 
